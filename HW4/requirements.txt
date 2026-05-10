@@ -1,0 +1,11 @@
+torch
+torchvision
+torchaudio
+transformers==4.41.2
+peft
+bitsandbytes
+accelerate
+datasets
+sentencepiece
+matplotlib
+pillow
